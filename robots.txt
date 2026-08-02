@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-s6xaf9.batmantoto9crt.sbs/sitemap.xml
